@@ -1,6 +1,6 @@
 {
   "name": "@pooltogether/prize-api-schema",
-  "version": "1.0.0",
+  "version": "1.0.0-beta.1",
   "scripts": {
     "test": "mocha test/*.js"
   },
