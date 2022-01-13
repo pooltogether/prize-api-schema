@@ -8,4 +8,4 @@
 
 # Prize API Schema
 
-![Unit Tests](https://github.com/pooltogether/v4-draw-results/actions/workflows/unit_test.yaml/badge.svg)
+![Unit Tests](https://github.com/pooltogether/prize-api-schema/actions/workflows/unit_test.yaml/badge.svg)
